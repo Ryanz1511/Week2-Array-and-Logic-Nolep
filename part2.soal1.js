@@ -6,6 +6,7 @@ function palindrome(kata) {
     
   }
   return kata === perbandingan.join("")? true : false
+  // hi
 } 
 
 // TEST CASES
