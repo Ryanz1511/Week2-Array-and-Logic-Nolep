@@ -6,7 +6,7 @@ function angkaPalindrome(num) {
         return num
     }
   }
-// a
+// aa
 }
 
 // TEST CASES
